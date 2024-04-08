@@ -1,0 +1,6 @@
+Hello, this is line 1
+12345
+This is line 3 with a mix of text and numbers
+This is line 4 added by appending
+67890
+Appending another line, this is line 6
